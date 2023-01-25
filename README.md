@@ -40,6 +40,11 @@ Nos links abaixo você encontra o layout do projeto web e também do mobile. Lem
 
 - [Layout] https://www.figma.com/file/uCliqdLoWiDelxbiwcffbR/Habits-(i)-(Community)?node-id=6%3A1628&t=ImZLHwvBakbz8ZiL-0
 
+<p>
+  <img alt="Layout" src="https://user-images.githubusercontent.com/62821098/214563604-6efdbfd1-c0b8-45e6-bba6-3373666d8df1.png" />
+  <img alt="Mobile" src="https://user-images.githubusercontent.com/62821098/214563961-48d1e730-0206-455e-aaa2-acaa0d916033.gif" />
+</p>
+
 ## 🧠 Desafio
 
 - Desenvolver Rotas de Autenticação
